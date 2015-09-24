@@ -1,0 +1,21 @@
+{
+  "name": "nutrition-label",
+  "version": "6.0.2",
+  "homepage": "https://github.com/cale148/nutrition-label",
+  "authors": [
+    "cale148 <cale148@gmail.com>"
+  ],
+  "description": "Nutrition Label jQuery Plugin by Nutritionix",
+  "main": [
+    "nutritionLabel-min.js",
+    "nutritionLabel-min.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
